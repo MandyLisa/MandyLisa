@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-An aspiring Full Stack Developer with a passion for building functional and user-centric web applications. Over the past year, I have dedicated myself to coding, culminating in my graduation from the Full Stack Javascript for Web Developer bootcamp at CodeCampThailand (Batch 21).
+An aspiring Full Stack Developer with a passion for building functional and user-centric web applications. Over the past year, I have dedicated myself to coding, culminating in my graduation from the Full Stack Javascript for Web Developer bootcamp at CodeCampThailand (Class 21).
 
 * 🌍  I'm based in Bangkok, Thailand
 * ✉️  You can contact me at [chwanjan1989@gmail.com](mailto:chwanjan1989@gmail.com)
